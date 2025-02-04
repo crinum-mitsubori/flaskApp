@@ -1,0 +1,11 @@
+# Python関連
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 仮想環境のディレクトリ（例:venv）
+venv/
+
+# OSが作成するファイル
+.DS_Store
+Thumbs.db
